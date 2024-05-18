@@ -11,7 +11,7 @@ let songs = [
     {songName: "salam", filepath: "music/1.mp3"},
     {songName: "salam", filepath: "music/2.mp3"},
     {songName: "salam", filepath: "music/3.mp3"},
-    {songName: "Kallo Ajay Hooda", filepath: "music/song/4.mp3"},
+    {songName: "Kallo Ajay Hooda", filepath: "/music/song/4.mp3"},
     {songName: "Zaroori Tha", filepath: "music/39.mp3"},
     {songName: "ALI MOLA ALI DAM", filepath: "music/6.mp3"},
     {songName: "Apna Raja ka fan hum bani", filepath: "music/7.m4a"},
