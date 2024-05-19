@@ -1,6 +1,6 @@
 console.log("hello");
 let songIndex = 0;
-let audioElement = new Audio('music/1.mp3');
+let audioElement = new Audio('1.mp3');
 let progress = document.getElementById('progress');
 let masterPlay = document.getElementById('masterPlay');
 let paused = document.getElementById('paused');
@@ -8,7 +8,7 @@ let duration = document.getElementById('duration');
 let list = Array.from(document.getElementsByClassName('list'));
 
 let songs = [
-    {songName: "salam", filepath: "music/1.mp3"},
+    {songName: "salam", filepath: "1.mp3"},
     {songName: "salam", filepath: "music/2.mp3"},
     {songName: "salam", filepath: "music/3.mp3"},
     {songName: "Kallo Ajay Hooda", filepath: "/music/music/4.mp3"},
